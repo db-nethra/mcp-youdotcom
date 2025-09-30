@@ -1,5 +1,5 @@
 env:
   - name: 'YOU_API_KEY'
-    value: 'ydc-sk-831714a5bdef1c90-Ja1IoAVCvEA49WsBnfT1lnUjctdGYifX-7a7a3b29<__>1SCkS5ETU8N2v5f4TwEvbDf0'
+    value: 'api-key'
 
 command: ['uv', 'run', 'youcom-mcp-server']
