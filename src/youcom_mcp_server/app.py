@@ -32,7 +32,7 @@ async def web_search(query: str) -> Dict[str, Any]:
         params = {"query": query}
 
         response = await client.get(
-            f"{YOU_API_BASE}/v2/search",
+            f"{YOU_API_BASE}/v1/search",
             headers=headers,
             params=params,
             timeout=30.0
