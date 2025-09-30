@@ -1,0 +1,2 @@
+# Only need uv in requirements for Databricks Apps CLI deployment
+uv
