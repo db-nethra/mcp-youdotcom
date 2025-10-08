@@ -1,2 +1,2 @@
-# Only need uv in requirements for Databricks Apps CLI deployment
-uv
+# Python dependencies are managed in pyproject.toml
+# This file is kept for Databricks Apps compatibility
